@@ -1,7 +1,5 @@
 # react-native-image-zoom
-image zoom for android and ios
-android code by PhotoView and universal-image-loader
-ios code by UIScrollView and SDWebImage
+image zoom for android and ios,android code by PhotoView and universal-image-loader,ios code by UIScrollView and SDWebImage
 
  ## Getting started
  
