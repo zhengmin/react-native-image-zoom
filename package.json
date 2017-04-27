@@ -1,0 +1,22 @@
+{
+  "name": "react-native-zzm-image-zoom",
+  "version": "0.1.0",
+  "description": "image zoom for android and ios",
+  "main": "ZoomImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengmin/react-native-image-zoom.git"
+  },
+  "keywords": [
+    "react-native-image-zoom"
+  ],
+  "author": "zmzheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengmin/react-native-image-zoom/issues"
+  },
+  "homepage": "https://github.com/zhengmin/react-native-image-zoom#readme"
+}
