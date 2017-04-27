@@ -44,3 +44,9 @@ var ImageZoom = require('react-native-zzm-image-zoom');
    style={styles.photo}
      uri=''/>
 ```
+
+## Properties
+
+#### `uri`
+
+support url and path
