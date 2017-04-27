@@ -36,3 +36,11 @@ npm install react-native-zzm-image-zoom --save
 	```
 
 ## Usage
+
+```javascript
+var ImageZoom = require('react-native-zzm-image-zoom');
+
+<ZoomImage
+   style={styles.photo}
+     uri=''/>
+```
